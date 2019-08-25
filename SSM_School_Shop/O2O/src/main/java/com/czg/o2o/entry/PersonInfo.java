@@ -21,6 +21,7 @@ public class PersonInfo {
 	private Date createTime;
 	//修改时间
 	private Date lastEditTime;
+	
 	public long getUserId() {
 		return userId;
 	}

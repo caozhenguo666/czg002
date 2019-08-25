@@ -1,13 +1,13 @@
 package com.czg.o2o.entry;
 
 import java.util.Date;
-
+//创建区域实体
 public class Area {
 	//ID
 	private Integer areaId;
 	//名称		
 	private String areaName;
-	//权重
+	//权重（优先级）
 	private Integer priority;
 	//创建时间
 	private Date createTime;
